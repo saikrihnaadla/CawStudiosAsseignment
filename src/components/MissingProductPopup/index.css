@@ -1,0 +1,45 @@
+/* styles.css */
+.close {
+  width: 30px;
+  height: 28px;
+  background-color: transparent;
+  border: none;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.missing-item-bg {
+  background-color: #00000080;
+  height: 100vh;
+  width: 200vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+.missing-heading {
+  font-size: 18px;
+  font-family: roboto;
+}
+.Heading-bg {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-bg {
+  background-color: white;
+  height: 200px;
+  width: 360px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.yes-no-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}

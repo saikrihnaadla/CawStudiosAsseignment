@@ -1,0 +1,63 @@
+.each-Item-main-bg {
+  border-bottom: 1px solid #b6b9ba;
+}
+.product-image {
+  width: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+
+.product-name-image-container {
+  width: 280px;
+}
+
+.Item-para {
+  color: #474642;
+  font-size: 12px;
+  font-weight: 400;
+  font-family: roboto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 10px;
+  padding-left: 2px;
+}
+
+.right-wrong-button {
+  background-color: transparent;
+  border: none;
+  margin-right: 10px;
+}
+
+.status-bg-container {
+  background-color: #ebeced;
+}
+
+.all-buttons-container {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.approved-status-button {
+  margin-left: 20px;
+}
+
+.tik-buttons-container {
+  width: 160px;
+  justify-content: space-around;
+}
+.tick-crossIcon {
+  height: 50px;
+  width: 18px;
+}
+
+.green-color {
+  color: #27c463;
+}
+
+.red-color {
+  color: red;
+}
+.orange-color {
+  color: orange;
+}
