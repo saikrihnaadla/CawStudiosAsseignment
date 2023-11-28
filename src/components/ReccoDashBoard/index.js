@@ -38,7 +38,7 @@ const orderDetails = [
   {
     id: uuidv4(),
     orderDetailsKey: 'Total',
-    orderDetailsValue: '$ 15,3028.3',
+    orderDetailsValue: '$ 16,3028.3',
   },
   {
     id: uuidv4(),
@@ -197,7 +197,7 @@ const itemsDetails = [
     imageUrl:
       'https://res.cloudinary.com/dnqs3qzaw/image/upload/v1700821786/Avocado_Hass_c1zpa5.jpg',
     price: 60,
-    quantity: 7,
+    quantity: 10,
     total: 0,
     status: itemStatus.initial,
   },
@@ -209,7 +209,7 @@ const itemsDetails = [
       'https://res.cloudinary.com/dnqs3qzaw/image/upload/v1700821786/Avocado_Hass_c1zpa5.jpg',
     price: 80,
     quantity: 0,
-    total: 0,
+    total: 4,
     status: itemStatus.initial,
   },
   {
