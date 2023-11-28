@@ -1,5 +1,6 @@
 .each-Item-main-bg {
   border-bottom: 1px solid #b6b9ba;
+  align-items: center;
 }
 .product-image {
   width: 40px;
